@@ -1,16 +1,2 @@
-# flutter_app
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+D_pthy An application detect 4 stages for Diabetic Retinopathy and display group of disease by entering a picture of the cornea of the patient's eye and determining if he is sick or not while he is in the stage of how many numbers, and presents a group of the best ophthalmologists and helps prevent the development of the disease by presenting a group of advice and increasing awareness of the disease by presenting a group of videos and articles.
+https://youtu.be/3Zspp3XEy4o
